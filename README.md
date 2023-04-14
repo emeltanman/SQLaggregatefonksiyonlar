@@ -1,0 +1,2 @@
+# SQLaggregatefonksiyonlar
+www.patika.dev
